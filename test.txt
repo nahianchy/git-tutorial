@@ -4,3 +4,6 @@ i am learning git and github.
 2nd commit
 i have commited before.but i am changing this file once again.i want to see the power of git.
 
+3rd commit
+i have changing this file for 3rd time.
+
