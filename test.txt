@@ -1,3 +1,6 @@
 hello,i am using vim,
 i am learning git and github.
 
+2nd commit
+i have commited before.but i am changing this file once again.i want to see the power of git.
+
